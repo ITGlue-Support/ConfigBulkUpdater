@@ -1,4 +1,4 @@
-$api_key = "ITG.a05cab5adc0a07cee7abc1bc1c0043f9.7ybDcJrEELabZRP9T3Q70iM1CohSB2Mwb09Pv10L3ZZMio1vAbhoCn1_x44aOuDd"
+$api_key = "Enter your API here"
 $count = 0
 $Org_idcount = Read-Host "Enter the count of org you wish to update configurations.(For e.g.: 10)"
 $headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
